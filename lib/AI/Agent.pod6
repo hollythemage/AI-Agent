@@ -1,0 +1,14 @@
+=begin AI-Agent
+
+=head1 Description
+
+AI Agent contains a dispatch system from LISP which causes
+Cognitive AI to occur (read: in LISP.)
+
+The Agents have an Actor class which dispatches messages
+to its clients.
+
+The system can also be used for Actor-based OOP as everything
+therein is a message dispatching system between objects.
+ 
+=end
